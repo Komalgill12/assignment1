@@ -1,0 +1,25 @@
+body{
+    background-color: floralwhite;
+}
+h1{
+    text-align: center;
+    margin: auto;
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: xx-large;
+}
+img{
+    margin: auto;
+    display: block;
+    width: 500px;
+    height: 500px;
+}
+fieldset{
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-style: normal;
+}
